@@ -2,6 +2,7 @@
 
 Prueba de concepto 
 
+```
 |-- README.md
 |-- database
 |   |-- constants.js
@@ -63,6 +64,7 @@ Prueba de concepto
 |   |-- react-range.css
 |   `-- style.css
 `-- webpack.config.js
+```
 
 scripts
 ```
